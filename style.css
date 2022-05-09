@@ -74,7 +74,7 @@ ul {
     max-width: 1200px;
     height: 700px;
     text-align: center;
-    background-image: url("/img-mission-background.jpeg");
+    background-image: url("https:giovanniboulay.github.io/cs-tea-shop/img-mission-background.jpeg");
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -124,7 +124,7 @@ img {
 /* ——— LOCATIONS ——— */
 
 .locations {
-    background-image: url("/img-locations-background.jpeg");
+    background-image: url("https:giovanniboulay.github.io/cs-tea-shop/img-locations-background.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     width: 100%;
